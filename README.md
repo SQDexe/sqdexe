@@ -8,6 +8,6 @@ I work in:
 - 🐍 Python ( TKinter, Django )
 - 🔰  C# ( Unity )
 
-I love learning about langauges, animals and the beuty of the world 🌍
+I love learning about animals, langauges, and the beuty of the world 🌍
 
 🌟 Thank you - Dziękuję - Danke - ありがとう 🌟
