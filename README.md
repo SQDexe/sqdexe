@@ -1,7 +1,7 @@
 ### ✌ Welcome to my profile, I'm SQD.exe 📛
 
 I've been learning programming, and all sorts of IT related subjects since 2018
-I'm mostly intrested in frontend'n'backend development, algorithmics, and computer games, but I tend to stray into further fields ... 
+I'm mostly intrested in frontend'n'backend development, algorithmics, and computer games, yet I tend to venture into further fields … 
 
 I mostly work with:
 - 🐍 Python
