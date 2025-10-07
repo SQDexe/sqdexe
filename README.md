@@ -1,7 +1,7 @@
 ### ✌ Welcome to my profile, I'm SQD.exe 📛
 
-I've been learning programming, and all sorts of CS related subjects since 2018
-I'm mostly intrested in low level programming, computer graphics, and AI, though I also worked on some front'n'back-end stuff … 
+I've been learning programming, and all sorts of CS-related subjects since 2018.  
+I'm mostly interested in low-level programming, computer graphics, and AI, though I also worked on some front'n'back-end stuff … 
 
 I mostly work with:
 - ⚙  Rust
@@ -10,6 +10,6 @@ I mostly work with:
 - ✂  C#
 - 💎 Svelte
 
-I love learning about animals, langauges, and the beuty of the world 🌍
+I love learning about animals, languages, and the World around us. 🌍
 
 🌟 Thank you - Dziękuję - Danke - ありがとう 🌟
