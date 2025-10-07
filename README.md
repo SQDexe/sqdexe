@@ -4,9 +4,9 @@ I've been learning programming, and all sorts of IT related subjects since 2018
 I'm mostly intrested in frontend'n'backend development, algorithmics, and computer games, yet I tend to venture into further fields … 
 
 I mostly work with:
-- 🐍 Python
-- 🖋  HTML / JS / CSS + jQuery
 - ⚙  Rust
+- 🐍 Python
+- 🖋  VanillaJS + jQuery
 - ✂  C#
 - 💎 Svelte
 
